@@ -1,0 +1,21 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.divs{
+    width: 150px;
+    height: 300px;
+    display: inline;
+}
+
+h1,span{font-family: monospace;
+                font-size: 25px;
+                display: inline-block;
+}
+#selectedColor{
+    /* background-color: green; */
+    color: white;
+    padding:6px;
+}
